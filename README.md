@@ -21,7 +21,7 @@ Aiming to become an exceptional front-end software developer that can create app
 
 - 👯 I’m looking to collaborate on **Front-end projects, LLM Projects**
 
-- 👨‍💻 All of my projects are available at [audiprevio.dev](www.audiprevio.dev)
+- 👨‍💻 All of my projects are available at <a href="audiprevio.dev">audiprevio.dev</a>
 
 - 💬 Ask me about **Next.JS, Open AI API, Vercel AI SDK, Tavily API**
 
