@@ -39,10 +39,10 @@ Research, flows, wireframes, prototyping, interface cleanup, product thinking, a
 `Leaflet` · `Google Maps API` · `GeoJSON` · map UX patterns
 
 **Backend, CMS & commerce**  
-`Node.js` · `Express` · `MongoDB` · `Shopify` · `DatoCMS` · headless CMS workflows
+`Node.js` · `Express` · `MongoDB` · `Shopify` · headless CMS workflows
 
 **AI & automation**  
-`OpenAI API` · `Vercel AI SDK` · `DeepSeek R1` · `Make` · `n8n` · workflow glue
+`OpenAI API` · `Vercel AI SDK` · workflow glue
 
 **Product & launch**  
 UX research · prototyping · analytics · `GA4` · `GTM` · QA · production debugging
