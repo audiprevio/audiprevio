@@ -71,4 +71,3 @@ Good software, to me, is not just polished UI. It is product logic, edge cases, 
 
 Portfolio: [audiprevio.dev](https://previotech.framer.website/)  
 LinkedIn: [linkedin.com/in/audi-previo](https://www.linkedin.com/in/audi-previo)  
-Email: [audi.previo98@gmail.com](mailto:audi.previo98@gmail.com)
