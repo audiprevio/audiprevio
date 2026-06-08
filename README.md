@@ -1,24 +1,74 @@
-<h1 align="left">Hi 👋, I'm Audi Previo</h1>
-<p align="left">I'm a full stack software engineer with a front-end focus and extensive experience in UX research and design. Skilled in developing and maintaining map-based applications, particularly using LeafletJS and Google Maps API. Oh, and I have also dabbled and developed a couple of AI/LLM/Image Generation Apps.
+# Hi 👋 I'm Audi Previo
 
-I'm experienced in agile product-tech environments, adept at utilizing front-end frameworks like Next.JS and Tailwind CSS and has proven ability to integrate these with back-end technologies such as Express.JS and MongoDB, as well as various CMS platforms.
+**Full-stack product engineer + UX designer building map-driven, data-heavy web products.**
 
-Tl;dr about me: 
-- 🌱 I’m currently working fulltime at Bumiterra developing: (1) Sustainable E-commerce site using Shopify, (2) Reforestation Registry, && (3) Map-based Apps (Biodiversity Map) 
+I work across the messy middle of product, UX, frontend engineering, CMS, commerce, maps, automation, and AI. Basically: I like turning vague product chaos into clean interfaces that actually ship.
 
-- 🔭 Outside of the office I like to explore interesting projects around Map-based app && AI Web App development. One of my previous AI-web app is Undernet Chat, a video game-based GPT-based Chat bot with >10.000 API hits & >4.000.000 tokens in around 3 months after its launch.
+My main lane is building web systems for sustainability, geospatial products, commerce, and teams with real-world operational data.
 
-- 👨‍💻 All of my projects are available in this Github as well as at <a href="audiprevio.dev">audiprevio.dev</a>
+## What I build
 
-- 💬 Feel free to ask me about **Next.JS, AI, Sustainability, and the meaning of life**
+🗺️ **Map-driven apps**  
+Geospatial interfaces, location-based product UX, biodiversity/reforestation tools, internal map systems, and data layers that do not make users want to throw their laptop into the sea.
 
+🌱 **Sustainability & climate-adjacent products**  
+Interfaces for environmental data, impact storytelling, reforestation workflows, sustainable commerce, and the weird-but-important connective tissue between data and humans.
 
-Let's connect and make an awesome project or two! 😁
+🛒 **CMS, commerce & production websites**  
+Framer, Shopify, Next.js, headless CMS workflows, multilingual sites, analytics setup, automations, routing, QA, and launch work.
 
-<hr>
+🤖 **AI-assisted web products**  
+LLM-powered interfaces, workflow automation, text analysis, chat prototypes, image-generation experiments, and practical AI features that save time instead of just wearing a shiny hat.
 
-Quick Stats:
+🎨 **UX & product design**  
+Research, flows, wireframes, prototyping, interface cleanup, product thinking, and making complex systems feel less like a government form from 2009.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=audiprevio&show_icons=true&locale=en&layout=compact" alt="audiprevio" /></p>
+## Recent work
 
-<hr>
+- Built and maintained a hybrid **Framer + Shopify** platform for **Plastic Fischer**, including multilingual EN/DE flows, subscription/shop setup, certificate and invoice automation, Brevo capture, GA4/GTM analytics, routing, testing, and production troubleshooting.
+- Shipped client-facing websites and product surfaces for international teams, including premium marketing/advisory builds and CMS-backed web experiences.
+- Worked across sustainability products involving e-commerce, reforestation registry flows, biodiversity mapping, and climate-adjacent storytelling.
+- Previously launched **Undernet Chat**, a video-game-based GPT chatbot experiment that passed **10k+ API hits** and **4M+ tokens** in roughly 3 months.
+
+## Tech I reach for
+
+**Frontend**  
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Framer`
+
+**Maps & geospatial**  
+`Leaflet` · `Google Maps API` · `GeoJSON` · map UX patterns
+
+**Backend, CMS & commerce**  
+`Node.js` · `Express` · `MongoDB` · `Shopify` · `DatoCMS` · headless CMS workflows
+
+**AI & automation**  
+`OpenAI API` · `Vercel AI SDK` · `DeepSeek R1` · `Make` · `n8n` · workflow glue
+
+**Product & launch**  
+UX research · prototyping · analytics · `GA4` · `GTM` · QA · production debugging
+
+## Current focus
+
+Right now I’m focused on building clean, useful web systems around:
+
+- sustainability data
+- map-based interfaces
+- CMS and commerce infrastructure
+- AI-assisted workflows
+- production-ready client websites
+- tools that make messy operations easier to understand
+
+Less “AI because buzzword.”  
+More “AI because this repetitive workflow has been eating someone’s afternoon for six months.” 🛠️
+
+## How I think about work
+
+I care about interfaces that are clear, systems that survive real users, and products that do not collapse the moment data gets weird.
+
+Good software, to me, is not just polished UI. It is product logic, edge cases, copy, performance, maintainability, analytics, and all the invisible plumbing behaving together without drama.
+
+## Find me
+
+Portfolio: [audiprevio.dev](https://previotech.framer.website/)  
+LinkedIn: [linkedin.com/in/audi-previo](https://www.linkedin.com/in/audi-previo)  
+Email: [audi.previo98@gmail.com](mailto:audi.previo98@gmail.com)
